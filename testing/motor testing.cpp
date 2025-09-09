@@ -12,7 +12,7 @@
 #define MOTOR2_CHANNEL 1
 #define MOTOR3_CHANNEL 2
 #define MOTOR4_CHANNEL 3
-#define MOTOR_PWM_FREQ 50
+#define MOTOR_PWM_FREQ 400
 #define MOTOR_PWM_RESOLUTION 12 // 12-bit resolution for duty cycle (0~4096)
 float m1Out = 0, m2Out = 0, m3Out = 0, m4Out = 0;
 
